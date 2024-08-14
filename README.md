@@ -4,10 +4,10 @@ This project delivers a comprehensive solution for processing and visualizing vi
 
 ## Contents
 - [System Architecture](#system-architecture)
-- [Setup & Requirements](#-setup--requirements)
-- [Usage](#-usage)
-- [Key Features](#-features)
-- [Notes](#-notes)
+- [Setup & Requirements](#setup--requirements)
+- [Usage](#how-to-use)
+- [Key Features](#key-features)
+- [Notes](#additional-notes)
 
 ## System Architecture
 ![System Architecture](assets/Sparkcluster_architecture.png)
