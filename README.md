@@ -5,9 +5,9 @@ This project delivers a comprehensive solution for processing and visualizing vi
 ## Contents
 - [System Architecture](#system-architecture)
 - [Setup & Requirements](#setup--requirements)
-- [Usage](#how-to-use)
+- [How to Use](#how-to-use)
 - [Key Features](#key-features)
-- [Notes](#additional-notes)
+- [Additional Notes](#additional-notes)
 
 ## System Architecture
 ![System Architecture](assets/Sparkcluster_architecture.png)
@@ -38,3 +38,5 @@ This project delivers a comprehensive solution for processing and visualizing vi
 - Ensure your Azure and Docker environments are properly set up to support the Spark master-worker cluster's operations.
 - The accuracy of country corrections and continent mapping relies on the ;'pycountry' and 'pycountry_convert' libraries; keep these libraries updated for the best results.
 - To handle unmatched country names, you can customize the 'country_mapping' dictionary located in the 'main.py' file. This allows you to manually define mappings for better data accuracy.
+
+## [Back UP](#spark-cluster)
